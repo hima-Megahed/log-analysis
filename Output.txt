@@ -1,0 +1,11 @@
+1. What are the most popular three articles of all time?
+('Article slug is: candidate-is-jerk', '338647 views.')
+('Article slug is: bears-love-berries', '253801 views.')
+('Article slug is: bad-things-gone', '170098 views.')
+2. Who are the most popular article authors of all time?
+('Author: Ursula La Multa', '507594 views')
+('Author: Rudolf von Treppenwitz', '423457 views')
+('Author: Anonymous Contributor', '170098 views')
+('Author: Markoff Chaney', '84557 views')
+3. On which days did more than 1% of requests lead to errors?
+('Request day: 2016-07-17', 'Error Rate: 2.26')
