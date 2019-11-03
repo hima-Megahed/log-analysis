@@ -1,8 +1,4 @@
 # Log Analysis
-<p>Ibrahim Hasan</p>
-
-
-<h3>About</h3>
 This is the third project in Udacity FullStack Web developer, this project concentrate on practicing quering skills on a large data base consists of more than 1 million record of data.
 
 
